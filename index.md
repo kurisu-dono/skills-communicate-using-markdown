@@ -7,3 +7,6 @@ System.out.println("Hello World!"); //This is a Java code
 ```python
 print('Hello World!') #This is a python code
 ```
+- [ ] Add a task list
+- [ ] Commit the changes
+- [ ] Finish the next step
